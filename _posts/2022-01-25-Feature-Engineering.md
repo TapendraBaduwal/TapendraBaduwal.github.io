@@ -10,8 +10,8 @@ permalink : /Feature Engineering/
 categories: [Projects]
 excerpt : Feature Engineering for Machine Learning.
 header :
-    og_image : "https://raw.githubusercontent.com/TapendraBaduwal/TapendraBaduwal.github.io/main/images/Feature_Eng.png"
-    teaser: "https://raw.githubusercontent.com/TapendraBaduwal/TapendraBaduwal.github.io/main/images/Feature_Eng.png"
+    og_image : "https://raw.githubusercontent.com/TapendraBaduwal/TapendraBaduwal.github.io/master/images/Feature_Eng.png"
+    teaser: "https://raw.githubusercontent.com/TapendraBaduwal/TapendraBaduwal.github.io/master/images/Feature_Eng.png"
 comments : true
 sidebar:
     nav: sidebar-sample
