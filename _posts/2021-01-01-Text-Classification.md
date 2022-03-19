@@ -10,8 +10,8 @@ permalink : /TextClassification/
 categories: [Projects]
 excerpt : 📝 Text Classification and Clustering With Machine Learning and NLP(Natural Language Processing).
 header :
-    og_image : "https://raw.githubusercontent.com/TapendraBaduwal/TapendraBaduwal.github.io/main/images/k-means.png"
-    teaser: "https://raw.githubusercontent.com/TapendraBaduwal/TapendraBaduwal.github.io/main/images/k-means.png"
+    og_image : "https://raw.githubusercontent.com/TapendraBaduwal/TapendraBaduwal.github.io/master/images/k-means.png"
+    teaser: "https://raw.githubusercontent.com/TapendraBaduwal/TapendraBaduwal.github.io/master/images/k-means.png"
 comments : true
 sidebar:
     nav: sidebar-sample
