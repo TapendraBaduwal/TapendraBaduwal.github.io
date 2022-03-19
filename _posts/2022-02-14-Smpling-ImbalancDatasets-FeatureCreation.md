@@ -10,8 +10,8 @@ permalink : /Feature Engineering part3/
 categories: [Projects]
 excerpt : Sampling Techniques-HandelingImbalancedDatasets-FeatureCreation-Model Selection-Machine Learning Pipeline.
 header :
-    og_image : "https://raw.githubusercontent.com/TapendraBaduwal/TapendraBaduwal.github.io/main/images/MLCycle.png"
-    teaser: "https://raw.githubusercontent.com/TapendraBaduwal/TapendraBaduwal.github.io/main/images/MLCycle.png"
+    og_image : "https://raw.githubusercontent.com/TapendraBaduwal/TapendraBaduwal.github.io/master/images/MLCycle.png"
+    teaser: "https://raw.githubusercontent.com/TapendraBaduwal/TapendraBaduwal.github.io/master/images/MLCycle.png"
 comments : true
 sidebar:
     nav: sidebar-sample
