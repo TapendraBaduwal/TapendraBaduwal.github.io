@@ -11,8 +11,8 @@ categories: [Projects]
 excerpt : 📝 The main aim of this project is to use Linear regression in order to figure out how to maximize the Yearly Amount spent by the customers on the basis of some features like Length of Membership,Time on App,Average Session Length,Time on Website.I used FastAPI for an application programming interface and Finally creat Docker of Customer to deliver project.
 
 header :
-    og_image : "https://raw.githubusercontent.com/TapendraBaduwal/TapendraBaduwal.github.io/main/images/API4.png"
-    teaser: "https://raw.githubusercontent.com/TapendraBaduwal/TapendraBaduwal.github.io/main/images/API4.png"
+    og_image : "https://raw.githubusercontent.com/TapendraBaduwal/TapendraBaduwal.github.io/master/images/API4.png"
+    teaser: "https://raw.githubusercontent.com/TapendraBaduwal/TapendraBaduwal.github.io/master/images/API4.png"
 comments : true
 sidebar:
     nav: sidebar-sample
