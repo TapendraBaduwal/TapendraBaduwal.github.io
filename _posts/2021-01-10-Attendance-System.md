@@ -8,8 +8,8 @@ read_time: true
 categories: [Projects]
 excerpt : Attendance System Using Face_recognition,OpenCv,Cmaker,dlib,numpy and other python inbuilt library such as os and datetime.
 header :
-    og_image : "https://raw.githubusercontent.com/TapendraBaduwal/TapendraBaduwal.github.io/main/images/Attendance_sys.png"
-    teaser: "https://raw.githubusercontent.com/TapendraBaduwal/TapendraBaduwal.github.io/main/images/Attendance_sys.png"
+    og_image : "https://raw.githubusercontent.com/TapendraBaduwal/TapendraBaduwal.github.io/master/images/Attendance_sys.png"
+    teaser: "https://raw.githubusercontent.com/TapendraBaduwal/TapendraBaduwal.github.io/master/images/Attendance_sys.png"
 comments : true
 sidebar:
     nav: sidebar-sample
