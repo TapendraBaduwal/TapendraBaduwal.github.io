@@ -10,8 +10,8 @@ permalink : /Email-SMS-Spam-Classifier/
 categories: [Projects]
 excerpt : 📝 Spam classifier program in python which can tell whether a given message is spam or not!....I used FastAPI for an application programming interface. It helps to communicate between different programs.
 header :
-    og_image : "https://raw.githubusercontent.com/TapendraBaduwal/TapendraBaduwal.github.io/main/images/API.jpg"
-    teaser: "https://raw.githubusercontent.com/TapendraBaduwal/TapendraBaduwal.github.io/main/images/API2.jpg"
+    og_image : "https://raw.githubusercontent.com/TapendraBaduwal/TapendraBaduwal.github.io/master/images/API.jpg"
+    teaser: "https://raw.githubusercontent.com/TapendraBaduwal/TapendraBaduwal.github.io/master/images/API2.jpg"
 comments : true
 sidebar:
     nav: sidebar-sample
