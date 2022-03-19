@@ -10,8 +10,8 @@ permalink : /Feature Transformation/
 categories: [Projects]
 excerpt : Feature Transformation and Scaling for Machine Learning.
 header :
-    og_image : "https://raw.githubusercontent.com/TapendraBaduwal/TapendraBaduwal.github.io/main/images/Feature_Transformation.png"
-    teaser: "https://raw.githubusercontent.com/TapendraBaduwal/TapendraBaduwal.github.io/main/images/Feature_Transformation.png"
+    og_image : "https://raw.githubusercontent.com/TapendraBaduwal/TapendraBaduwal.github.io/master/images/Feature_Transformation.png"
+    teaser: "https://raw.githubusercontent.com/TapendraBaduwal/TapendraBaduwal.github.io/master/images/Feature_Transformation.png"
 comments : true
 sidebar:
     nav: sidebar-sample
