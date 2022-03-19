@@ -11,8 +11,8 @@ categories: [Projects]
 excerpt : Math Behind ML and DL Algorithms:Linear Regression,Polynomial Regression, Ridge Regression, Lasso Regression, Logistic Regression, Naïve Bayes, Decision Trees , Random Forest,  AdaBoost,  SVM, KNN, K-Means Clustering,  PCA,  Apriori, Q-Learning, Deep Learning(Deep Neural Network,Convolutional Neural Networks,Transformer).
 
 header :
-    og_image : "https://raw.githubusercontent.com/TapendraBaduwal/TapendraBaduwal.github.io/main/images/Transformer.png"
-    teaser: "https://raw.githubusercontent.com/TapendraBaduwal/TapendraBaduwal.github.io/main/images/Transformer.png"
+    og_image : "https://raw.githubusercontent.com/TapendraBaduwal/TapendraBaduwal.github.io/master/images/Transformer.png"
+    teaser: "https://raw.githubusercontent.com/TapendraBaduwal/TapendraBaduwal.github.io/master/images/Transformer.png"
 comments : true
 sidebar:
     nav: sidebar-sample
