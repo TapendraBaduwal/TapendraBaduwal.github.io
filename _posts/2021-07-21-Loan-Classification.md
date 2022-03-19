@@ -8,8 +8,8 @@ read_time: true
 categories: [Projects]
 excerpt : The bank and financial institution loan can be classified according to the overdue of the credit period.
 header :
-    og_image : "https://raw.githubusercontent.com/TapendraBaduwal/TapendraBaduwal.github.io/main/images/Bank_loan.png"
-    teaser: "https://raw.githubusercontent.com/TapendraBaduwal/TapendraBaduwal.github.io/main/images/Bank_loan.png"
+    og_image : "https://raw.githubusercontent.com/TapendraBaduwal/TapendraBaduwal.github.io/master/images/Bank_loan.png"
+    teaser: "https://raw.githubusercontent.com/TapendraBaduwal/TapendraBaduwal.github.io/master/images/Bank_loan.png"
 comments : true
 sidebar:
     nav: sidebar-sample
