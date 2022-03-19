@@ -8,8 +8,8 @@ read_time: true
 categories: [Projects]
 excerpt : Facial Recognition System using python opencv,numpy and os library.
 header:
-  og_image: "https://raw.githubusercontent.com/TapendraBaduwal/TapendraBaduwal.github.io/main/images/Face_recog.png"
-  teaser: "https://raw.githubusercontent.com/TapendraBaduwal/TapendraBaduwal.github.io/main/images/Face_recog.png"
+  og_image: "https://raw.githubusercontent.com/TapendraBaduwal/TapendraBaduwal.github.io/master/images/Face_recog.png"
+  teaser: "https://raw.githubusercontent.com/TapendraBaduwal/TapendraBaduwal.github.io/master/images/Face_recog.png"
 comments : true
 sidebar:
     nav: sidebar-sample
