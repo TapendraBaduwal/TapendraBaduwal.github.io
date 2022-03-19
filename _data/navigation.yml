@@ -1,0 +1,14 @@
+main:
+  - title: "Posts"
+    url: /posts/
+  - title: "Categories"
+    url: /postcollections/
+  - title: "Projects"
+    url: /portfolio/
+  - title: "Publications"
+    url: /publications/
+  - title: "About"
+    url: /about/
+  
+
+# Create link
