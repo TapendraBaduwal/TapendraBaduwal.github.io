@@ -78,7 +78,7 @@ Yadi post haru lekhnu x vanya post ma lekhni.
 -----------------------------------------------
 # Page and post
 * Note :  if page, post,.yml, or j ni git ma properly configuration vayo vanya thyakka mathi bar ma yellow point dekhinxa github action pass vanyara.
-* ![image](https://github.com/MadanBaduwal/MadanBaduwal.github.io/blob/main/images/info.png)
+* ![image](https://github.com/TapendraBaduwal/TapendraBaduwal.github.io/blob/main/images/info.png)
 * page ma classes: wide vanyara hunxa 
 * post ma layout : categories,posts  vanyara hunxa.
 
@@ -139,12 +139,12 @@ Note 📝 : .np domain have no option CNAME so we use cloudflare
 * Example : [cloudflare](https://www.cloudflare.com/en-au/)
 *  Redirected: Domain name point at ip address(A record)>DNS point ip address to another domain name(CNAME)
 
-```A record : Madanbaduwal.com.np points to  185.199.108.153(githubip)
-   A record : Madanbaduwal.com.np points to  185.199.109.153(githubip)
-   A record : Madanbaduwal.com.np points to  185.199.110.153(githubip)
-   A record : Madanbaduwal.com.np points to  185.199.111.153(githubip)
+```A record : Tapendrabaduwal.com.np points to  185.199.108.153(githubip)
+   A record : Tapendraduwal.com.np points to  185.199.109.153(githubip)
+   A record : Tapendrabaduwal.com.np points to  185.199.110.153(githubip)
+   A record : Tapendrabaduwal.com.np points to  185.199.111.153(githubip)
    
-   CNAME record : MadanBaduwal.com.np is an alise of madanbaduwal.github.io
+   CNAME record : TapendraBaduwal.com.np is an alise of madanbaduwal.github.io
 ```
 
   Note 📝 : github ip are same  for all users.
@@ -161,7 +161,7 @@ Note 📝 : Primary name server and Secondary name server are different for all 
 
 ### 4. Check whether my domain is Primary name server and Secondary name server from cloudfair
 
-* [dnschecker](https://dnschecker.org/all-dns-records-of-domain.php?query=madanbaduwal.com.np&rtype=ANY)
+* [dnschecker](https://dnschecker.org/all-dns-records-of-domain.php?query=Tapendrabaduwal.com.np&rtype=ANY)
 
 ### 5. CNAME(no any extension) file in github
 
@@ -181,9 +181,9 @@ and
 
 * Goto the Page rule  set the following two rules
 ``` 
-madanbaduwal.com.np/*    : Always Use HTTPS
+Tapendrabaduwal.com.np/*    : Always Use HTTPS
 
-www.madanbaduwal.com.np/*  :Always Use HTTPS
+www.Tapendrabaduwal.com.np/*  :Always Use HTTPS
 
 ```
 
@@ -200,7 +200,7 @@ Go throw : [mmistakes](https://mmistakes.github.io/minimal-mistakes/docs/configu
 ```
 TXT record : Madanbaduwal.com.np points to  <text copy from google search console>.
 ```
-* Submite your sitemap : https://madanbaduwal.com.np/sitemap.xml , in google search console.
+* Submite your sitemap : https://Tapendrabaduwal.com.np/sitemap.xml , in google search console.
 
 
 
