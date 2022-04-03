@@ -195,10 +195,10 @@ Go throw : [mmistakes](https://mmistakes.github.io/minimal-mistakes/docs/configu
 * [Create search engine first](https://cse.google.com/cse/all)
 
 
-* Google webmaster + Google search console (mathi madadnbaduwal.github.io  ko lagi garya jastai)
+* Google webmaster + Google search console (mathi Tapendrabaduwal.github.io  ko lagi garya jastai)
 * Verified your website by copy provided text and pest in DNS(cloudfair) as TXT record.
 ```
-TXT record : Madanbaduwal.com.np points to  <text copy from google search console>.
+TXT record : Tapendrabaduwal.com.np points to  <text copy from google search console>.
 ```
 * Submite your sitemap : https://Tapendrabaduwal.com.np/sitemap.xml , in google search console.
 
