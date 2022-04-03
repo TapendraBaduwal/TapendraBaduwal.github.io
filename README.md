@@ -144,7 +144,7 @@ Note 📝 : .np domain have no option CNAME so we use cloudflare
    A record : Tapendrabaduwal.com.np points to  185.199.110.153(githubip)
    A record : Tapendrabaduwal.com.np points to  185.199.111.153(githubip)
    
-   CNAME record : TapendraBaduwal.com.np is an alise of madanbaduwal.github.io
+   CNAME record : TapendraBaduwal.com.np is an alise of Tapendrabaduwal.github.io
 ```
 
   Note 📝 : github ip are same  for all users.
@@ -165,7 +165,7 @@ Note 📝 : Primary name server and Secondary name server are different for all 
 
 ### 5. CNAME(no any extension) file in github
 
-* You can create CNAME file manually in github project(CNAME align with index.html) with madanbaduwal.com.np.
+* You can create CNAME file manually in github project(CNAME align with index.html) with Tapendrabaduwal.com.np.
  or 
 * In project setting if we set custome domain it create CNAME file automatically with it body.
 
