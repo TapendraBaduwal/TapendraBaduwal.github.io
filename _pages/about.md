@@ -10,16 +10,3 @@ excerpt: Learn about me, who iam and what I do.
 
 Hi there, I am Tapendra Baduwal, currently working in the fields of Machine Learning, Data Science, and Business Intelligence, particularly focused on Feature Engineering, ML and DL Algorithms, Computer Vision, and Natural Language Processing. My ultimate career goal is to become an artificial intelligence researcher.
 
-In this blog, I write about Machine Learning, Computer Vision,Natural Language Processing,Mathematics..  
-
-**Who I am?**  
-
-I'm an Artificial Intelligence researcher.
-
-**What I do?**  
-I do research in the field of AI and apply it to solve the real life problems in the field of Business. 
-
-**Interest Areas**  
-I'm interested in the research of any field related to artificial intelligence.
-
-
