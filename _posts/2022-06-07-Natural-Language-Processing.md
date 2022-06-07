@@ -8,8 +8,7 @@ author_profile: true
 read_time: true
 permalink : /Natural-Language-Processing/
 categories: [Projects]
-excerpt : 📝 Beautiful Soup web scraping uses intelligence automation methods to get thousands or even millions of data sets in a smaller
-amount of time, Stemming, Lemmatization, Part of Speech Tagging (PoS tagging) etc..
+excerpt : 📝 Beautiful Soup web scraping uses intelligence automation methods to get thousands or even millions of data sets in a smaller amount of time, Stemming, Lemmatization, Part of Speech Tagging (PoS tagging) etc
 header :
     og_image : "https://raw.githubusercontent.com/TapendraBaduwal/TapendraBaduwal.github.io/master/images/nlp_image.png"
     teaser: "https://raw.githubusercontent.com/TapendraBaduwal/TapendraBaduwal.github.io/master/images/nlp_image.png"
