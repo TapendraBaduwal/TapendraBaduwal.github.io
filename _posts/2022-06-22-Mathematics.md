@@ -1,6 +1,6 @@
 ---
 published: true
-title: Mathematics
+title: Mathematics for Machine Learning
 layout: single
 date: 2022-06-22T00:00-00:00
 last_modified_at: 2022--06-22T00:00:00-00:00
@@ -8,7 +8,7 @@ author_profile: true
 read_time: true
 permalink : /Mathematics/
 categories: [Projects]
-excerpt : 📝 Mathematics for Machine Learning.
+excerpt : 📝 Linear Algebra,Probability,Statistics and Calculus for Machine Learning.
 header :
     og_image : "https://raw.githubusercontent.com/TapendraBaduwal/TapendraBaduwal.github.io/master/images/math.png"
     teaser: "https://raw.githubusercontent.com/TapendraBaduwal/TapendraBaduwal.github.io/master/images/math.png"
