@@ -10,8 +10,8 @@ permalink : /Mathematics/
 categories: [Projects]
 excerpt : 📝 Mathematics for Machine Learning.
 header :
-    og_image : ""
-    teaser: ""
+    og_image : "https://raw.githubusercontent.com/TapendraBaduwal/TapendraBaduwal.github.io/master/images/math.png"
+    teaser: "https://raw.githubusercontent.com/TapendraBaduwal/TapendraBaduwal.github.io/master/images/math.png"
 comments : true
 sidebar:
     nav: sidebar-sample
