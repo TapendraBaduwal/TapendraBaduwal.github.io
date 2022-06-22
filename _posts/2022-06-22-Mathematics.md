@@ -1,6 +1,6 @@
 ---
 published: true
-title: Mathematics for Machine Learning
+title: Mathematics
 layout: single
 date: 2022-06-22T00:00-00:00
 last_modified_at: 2022--06-22T00:00:00-00:00
