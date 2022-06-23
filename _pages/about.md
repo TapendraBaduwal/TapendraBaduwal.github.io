@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "Resume"
+title: "About Me"
 classes: wide
 excerpt: Learn about me, who iam and what I do. 
 ---
