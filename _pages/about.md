@@ -1,6 +1,6 @@
 ---
-permalink: /Resume/
-title: "About"
+permalink: /resume/
+title: "Resume"
 classes: wide
 excerpt: Learn about me, who iam and what I do. 
 ---
